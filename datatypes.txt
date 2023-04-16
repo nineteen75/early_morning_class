@@ -1,0 +1,13 @@
+A data type is a classification that dictates what a variable or object can hold in computer programming. 
+
+Examples of Data Types
+
+Number eg: 1, 2, 4, 5
+
+Character eg: 'X', 'Y', 'Z'
+
+Floating Point eg: 1.25, 3.45, 2.3, 0.0
+
+Strings eg: "Elias", "Ernest", "Tawiah", 'SDA College'
+
+Boolean eg: True, False

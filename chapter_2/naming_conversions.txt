@@ -1,0 +1,44 @@
+Naming conversions
+- Pascal Case
+- Camel Case
+- Kebab Case
+- Snake Case
+
+
+Examples of Pascal Cases
+* FirstName = "Ernest"
+* LastName = "Elias"
+* Surname = "Kenny"
+exagerating here, dont take serious
+JoinUsNowAndShareTheSoftware
+
+Examples of Camel Cases
+* firstName = "Ernest"
+* lastName = "Elias"
+* surname = "Kenny"
+exagerating, dont take it serious
+JoinUsNowAndShareTheSoftware
+
+Examples of kebab Cases
+* first-name = "Ernest"
+* last-name = "Elias"
+* surname = "Kenny"
+exagerating, dont take it serious
+join-us-now-and-share-the-JoinUsNowAndShareTheSoftware
+
+Examples of Snake Cases
+* first_name = "Ernest"
+* last_name = "Elias"
+* surname = "Kenny"
+exagerating, dont take it serious
+join_us_now_and_share_the_software
+
+
+## Although you are allowed to make up your own names for variables, you must follow these rules: ##
+* You cannot use one of Python's key words as a variable name. (SeeTable 1-2 for a list of the key words.)
+* A variable name cannot contain spaces.
+* The first character must be one of the letters a through z, A through Z, or an under-score character (- ).
+* After the first character you may use the letters a through zor A through 2,the dig- its O through 9, or underscores.
+* Uppercase and lowercase characters are distinct. This means the variable name
+Itemsordered is not the same as itemsordered.
+
