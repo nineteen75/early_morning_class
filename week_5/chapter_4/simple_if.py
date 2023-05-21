@@ -1,6 +1,6 @@
 def authenticate_person(person):
     if person == "Pastor Ernest":
-        return "welcome Pastor"
+        return "welcome Pastor!"
     else:
         return "Who are you?"
 
