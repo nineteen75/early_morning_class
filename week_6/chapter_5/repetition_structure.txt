@@ -1,0 +1,5 @@
+types of loops
+- while loop  is a condition controlled loop
+- for loop is a count controlled loop
+
+
