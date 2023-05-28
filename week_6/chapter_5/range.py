@@ -7,7 +7,7 @@ def main():
 
     # for number in range(4, 10):
     #     print(number)
-    
+
     for number in range(2, 10, 2):
         print(number)
 
