@@ -7,6 +7,6 @@ def main():
 
     infile.close()
 
-    print(line_3)
+    print(line_1.rstrip('\n'),line_2.strip(),line_3)
 
 main()
