@@ -1,5 +1,5 @@
 class Car:
-    def __init__(self, name):
+    def __init__(self, name): # contructor
         self.name = name
 
     def stop(self):
