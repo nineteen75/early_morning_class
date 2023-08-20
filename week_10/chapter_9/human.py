@@ -7,6 +7,19 @@ class Human:
         self.__date_of_birth = date_of_birth
         self.__time_of_birth = time_of_birth
 
+    # mutator or setter
+    def set_date_of_birth(self, date_of_birth):
+        self.__date_of_birth = date_of_birth
+
+    def get_date_of_birth(self):
+        return self.__date_of_birth
+
+    def set_time_of_birth(self, time_of_birth):
+        self.__time_of_birth = time_of_birth
+
+    def get_time_of_birth(self):
+        return self.__time_of_birth
+
     def __str__(self):
         return 'I was born on ' + self.__date_of_birth + ' and at ' + self.__time_of_birth
 
@@ -31,4 +44,8 @@ main()
 '''
 classes names should start with caps
 Human, House, Birds
+
+Accessors and Mutators
+or
+Getters and Setters
 '''
